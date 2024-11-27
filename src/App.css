@@ -1,0 +1,22 @@
+.pos-area {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.pos-sum {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  h3 {
+    padding: 0 10px;
+  }
+
+  input {
+    padding-left: 10px;
+    font-size: 2em;
+  }
+}
